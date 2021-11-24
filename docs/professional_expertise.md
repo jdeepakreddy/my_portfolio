@@ -1,39 +1,46 @@
-# Skills
+# Skills, Ability and Knowledge
 
-**Schematic Capture and PCB Layout tools**
+**Schematic Capture and PCB Layout Tools**
 
 - Altium Designer
 - Mentor Graphics PADS Professional
 
-**Interface and system design**
+**Expertise**
 
-- DDRx memory based high speed design
-- SPI, I2C, UART/USART interface
-- MIPI-DSI, HDMI, SDMMC (eMMC Flash, Micro-SD) interface
-- Microprocessor and Microcontroller based system design
-- Wireless Modules based system design (limited)
-
-**PCB Design/Layout**
-
-- Multi-layer PCB Design (2, 4, 6, 8 layers)
-- BGA Routing greater than 350 pins (0.5mm, 0.8mm, 1mm pitch)
-- HDI PCB Design (Micro, Blind and Buried vias)
+- Circuit design based on industry standard interfaces such as:
+    - SPI, I2C, UART/USART (Low speed interfaces)
+    - MIPI-DSI, HDMI, USB, SDMMC (eMMC Flash, Micro-SD) and Ethernet.
+- Microprocessor and DDRx memory based high speed design
+- Wireless MCU based IoT system design.
+- Low power, battery operated system design.
+- Multi-layer PCB Design (2, 4, 6, 8, 10, 12 layers)
 - Rigid-Flex PCB Design
-
-# Ability
-
-- IoT based system design.
-- Low power battery operated system design.  
-- Board bring-up and debugging.
-
-# Knowledge
-
-- Volume production/manufacturing methods and process.
-- C Programming Language.
+- HDI PCB Design (Micro, Blind and Buried vias)
 - Hardware design cycle and process.
+- Board bring-up, testing and debugging.
+- Volume production/manufacturing methods and process.
+- Good understanding of C Programming Language.
 
+# Professional Experience
 
-# Work Experience
+**Hardware Design Engineer** <br>
+Logicboards <br>
+Jan 2021 - Present | 11 months <br>
+Hyderabad, Telangana, India <br>
+**Website** - [Logicboards Documentation](https://docs.logicboards.org/) <br>
+**Status** - Development <br>
+
+Logicboard is a commercial off-the-shelf, easy to use System on Module (SoM) that focuses on medium-volume embedded projects. Customers can benefit from the hardware, software, and service integration, which reduces complexity, time-to-market, risk, and costs. <br>
+
+**Tasks**
+
+- Schematic design of SoM with STM32MP1 Microprocessor, DDR3L SDRAM, eMMC Flash, PMIC and Board to Board Mezzanine connectors.
+- Designed a compact high speed 42 x 42mm HDI PCB populating it with Microprocessor (18 x 18mm 448 pin BGA), DDR3L (96 pin BGA), eMMC Flash, PMIC, WiFi Module and Board to Board Mezzanine connectors.
+- Designed carrier board with MIPI-DSI, HDMI, USB, SDMMC (eMMC Flash, Micro-SD), ethernet, SPI, I2C and UART/USART interfaces.
+- Took the idea from concept to prototype stage.
+- Board bring-up
+- Working on developing custom Linux OS for the SoM.
+
 
 **Hardware Design Engineer** <br>
 Avantari Technologies Private Limited <br>
@@ -80,16 +87,10 @@ patient and transmit to a web portal for remote monitoring. <br>
 - Design of PCB combining HDI (Micro, Blind and Buried vias) and Rigid-Flex Technologies.
 - Work with firmware teams for Board bring up, testing, debugging and reiterating.
 
-
-# Personal Project
-
-**Embedded Linux System on Module (SoM)** <br>
-Apr 2021 - Present | 7 months <br>
-**Website** - [Embedded Linux SoM Project Documentation](https://docs.logicboards.org/) <br>
-
-**My Tasks** <br>
-
 # Education
+
 **SRM University** <br>
 Bachelor's degree, Electrical and Electronics Engineering. <br>
 2013 - 2017
+
+Click this home [👉🏠](index.md) to go back to home page.
